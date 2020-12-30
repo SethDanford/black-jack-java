@@ -11,6 +11,7 @@ This game is a lot like balck jack exept for a few things, the details of which 
 - If your score is higher than the house you win the amount of credits that you bet.
 
 # How do I play?
+- Open the project in Eclipse, and run the file called "A2Tester.java".
 - To add a play click on the add player button. When prompted enter a unique ID, any name and any amount of points (non-negative). You can select different players by using the dropdown menu at the top of the window.
 - You must bet before you can be delt. So press the bet button and enter a bet.
 - Once all of the players have bet and been delt, the house will be automatically delt.
